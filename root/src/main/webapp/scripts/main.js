@@ -19,6 +19,7 @@ $(document).on({
 // lets see if anything happens 
         //test again
         //Lets build this 
+        //another change
         function _resize() {
             console.log($(window).scrollTop())
             $("#mobile-section").height($(window).height() + "px");
