@@ -56,7 +56,7 @@ public class AdvantageTestContextConfiguration {
 //        jpaProperties.put("hibernate.use_sql_comments", "true");
 //        entityManagerFactoryBean.setJpaPropertyMap(jpaProperties);
 //
-//        return entityManagerFactoryBean; 
+//        return entityManagerFactoryBean; change
 //    }
 
 }
