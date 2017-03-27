@@ -125,6 +125,7 @@ public class ShipexApplicationTests {
         //Assert.assertEquals(true, response.getCode().contains(ResponseEnum.OK.getStringCode()));
 // test code commit 
         //more code changes 
+        // another code change 
         //validate country alias
         request = getDefaultCostRequest();
         request.getSEAddress().setCountry(createStringWithLength(3));
