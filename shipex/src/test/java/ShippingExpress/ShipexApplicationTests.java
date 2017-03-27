@@ -123,7 +123,7 @@ public class ShipexApplicationTests {
         //request.setSECustomerPhone("");
         //response = endpoint.getShippingCost(request);
         //Assert.assertEquals(true, response.getCode().contains(ResponseEnum.OK.getStringCode()));
-
+// test code commit 
         //validate country alias
         request = getDefaultCostRequest();
         request.getSEAddress().setCountry(createStringWithLength(3));
