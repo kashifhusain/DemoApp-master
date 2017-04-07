@@ -47,7 +47,7 @@ public class AdvantageTestContextConfiguration {
 //        entityManagerFactoryBean.setPackagesToScan(new String[]{"com.advantage.order.store.model", "com.advantage.order.store.user.model"});
 //        entityManagerFactoryBean.setLoadTimeWeaver(new InstrumentationLoadTimeWeaver());
 //        entityManagerFactoryBean.setJpaVendorAdapter(new HibernateJpaVendorAdapter());
-//
+// change 
 //        Map<String, Object> jpaProperties = new HashMap<String, Object>();
 //        jpaProperties.put("hibernate.hbm2ddl.auto", "create");
 //        jpaProperties.put("hibernate.dialect", "org.hibernate.dialect.HSQLDialect");
