@@ -124,7 +124,7 @@ public class ShipexApplicationTests {
         //response = endpoint.getShippingCost(request);
         //Assert.assertEquals(true, response.getCode().contains(ResponseEnum.OK.getStringCode()));
 // test code commit 
-        
+        //another change
      
         request = getDefaultCostRequest();
         request.getSEAddress().setCountry(createStringWithLength(3));
