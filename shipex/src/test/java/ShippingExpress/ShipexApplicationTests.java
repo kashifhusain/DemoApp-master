@@ -125,6 +125,8 @@ public class ShipexApplicationTests {
         //Assert.assertEquals(true, response.getCode().contains(ResponseEnum.OK.getStringCode()));
 // test code commit 
         //another change has been made
+        //change
+        //modify code
 
      
         request = getDefaultCostRequest();
