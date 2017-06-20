@@ -15,4 +15,4 @@ public class ShipexApplication {
     }
 }
 // test changes
-//fixed defect
+//fixed defecte
