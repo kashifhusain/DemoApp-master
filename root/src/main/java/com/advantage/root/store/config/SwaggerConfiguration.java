@@ -12,6 +12,7 @@ import static springfox.documentation.builders.PathSelectors.regex;
 
 /**
  * Created by dalie on 11/10/2015.
+ * yup
  */
 @Configuration
 @EnableSwagger2
