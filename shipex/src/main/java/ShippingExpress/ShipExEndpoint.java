@@ -25,7 +25,7 @@ public class ShipExEndpoint {
                 " ****** ShipEx service start ****** \n" +
                 " ********************************** ");
     }
-
+//fix code
     @Autowired
     public ShipExEndpoint(ShippingExpressService shippingService) {
         this();
