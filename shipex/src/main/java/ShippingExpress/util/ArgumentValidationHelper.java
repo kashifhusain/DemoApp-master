@@ -67,13 +67,14 @@ public class ArgumentValidationHelper {
     }
 
     /**
-     * Phone is 0-20 digits. Validation is not mandatory.
+     * Phone is 0-20 digits. Validation is not mandatory. yes
      * To validate use {@code ValidationHelper}.
      * @return {@code true}
      */
     private static boolean phoneNumberValidation(String phone) {
         //return Pattern.compile(PHONE_PATTERN).matcher(phone).matches() || phone.isEmpty();
         //return phone == null || phone.length() <= 10;
+        //change
         return true;
     }
 
