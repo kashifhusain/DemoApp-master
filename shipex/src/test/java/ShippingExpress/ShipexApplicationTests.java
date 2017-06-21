@@ -195,7 +195,7 @@ public class ShipexApplicationTests {
         PlaceShippingOrderResponse response = endpoint.placeShippingOrder(request);
         Assert.assertEquals(true, response.getCode().contains(ResponseEnum.ERROR.getStringCode()));
 
-        //validate addressLine1
+        //validate addressLine1 x
         request = getDefaultOrderRequest();
         request.getSEAddress().setAddressLine1(createStringWithLength(51));
         response = endpoint.placeShippingOrder(request);
