@@ -26,7 +26,7 @@ public class ShipExEndpoint {
                 " ********************************** ");
     }
 //fix code again
-    //and again and again once more34
+    //and again and again once more34e
     @Autowired
     public ShipExEndpoint(ShippingExpressService shippingService) {
         this();
