@@ -127,8 +127,10 @@ public class ShipexApplicationTests {
         //another change has been made
         //change
         //modify code xxx uuuugg
-        // change some code
+        // change some codeeee
+        //changeswe1
 
+// change code
      
         request = getDefaultCostRequest();
         request.getSEAddress().setCountry(createStringWithLength(3));
