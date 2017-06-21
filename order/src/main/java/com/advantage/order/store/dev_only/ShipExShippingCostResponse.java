@@ -2,6 +2,7 @@ package com.advantage.order.store.dev_only;
 
 /**
  * @author Binyamin Regev on 24/12/2015.
+ // test
  */
 public class ShipExShippingCostResponse {
     private boolean success;
