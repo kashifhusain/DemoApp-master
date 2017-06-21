@@ -9,7 +9,7 @@ import org.apache.commons.lang3.StringUtils;
 /**
  * A helper class for file system issues.
  * <br/>
- *
+ // more help
  * @author eli.dali@hpe.com
  */
 public abstract class FileSystemHelper {
