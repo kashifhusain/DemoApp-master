@@ -7,7 +7,7 @@ import com.advantage.common.exceptions.token.SignatureAlgorithmException;
 import org.junit.Assert;
 import org.junit.Test;
 
-//import org.springframework.beans.factory.annotation.Autowired;
+//import org.springframework.beans.factory.annotation.Autowired; check
 
 //@RunWith(SpringJUnit4ClassRunner.class)
 //@ContextConfiguration(classes = {AdvantageTestContextConfiguration.class})
