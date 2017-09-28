@@ -8,7 +8,7 @@ import org.springframework.context.annotation.PropertySources;
 import org.springframework.core.env.Environment;
 
 @Configuration
-//@ComponentScan({"com.advantage.order.store.services",
+//@ComponentScan({"com.advantage.order.store.services", again
 //        "com.advantage.order.store.dao",
 //        "com.advantage.order.store.user.dao",
 //        "com.advantage.order.store.user.model",
