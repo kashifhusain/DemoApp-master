@@ -103,7 +103,7 @@ public class ShipexApplicationTests {
         //request.setSECustomerPhone("1234567");
         //response = endpoint.getShippingCost(request);
         //Assert.assertEquals(true, response.getCode().contains(ResponseEnum.ERROR.getStringCode()));
-        //
+        // change to code
         ////phone=5
         //request.setSECustomerPhone("+1234");
         //response = endpoint.getShippingCost(request);
