@@ -120,7 +120,7 @@ public class Url_resources {
 
 
 //    @Ignore
-//    @Test octane
+//    @Test octane test
 //    public void ttt() throws URISyntaxException, MalformedURLException {
 //        String scheme = "http";
 //        String userInfo = null;
