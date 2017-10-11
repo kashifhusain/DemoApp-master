@@ -19,7 +19,7 @@ public class AdvantageTestContextConfiguration {
 
     @Autowired
     private Environment environment;
-// test this again 22212
+// test this again 22212we
 //    @Bean(name = "transactionManager")
 //    public PlatformTransactionManager transactionManager(EntityManagerFactory entityManagerFactory,
 //                                                         DriverManagerDataSource dataSource) {
