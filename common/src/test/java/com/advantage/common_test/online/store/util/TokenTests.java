@@ -10,7 +10,7 @@ import org.junit.Test;
 //import org.springframework.beans.factory.annotation.Autowired; check
 
 //@RunWith(SpringJUnit4ClassRunner.class)
-//@ContextConfiguration(classes = {AdvantageTestContextConfiguration.class}) change
+//@ContextConfiguration(classes = {AdvantageTestContextConfiguration.class}) 
 public class TokenTests {
     private static final long USER_ID = 1234;
     private static final String LOGIN_NAME = "loginName";
