@@ -19,7 +19,7 @@ public class AdvantageTestContextConfiguration {
 
     @Autowired
     private Environment environment;
-//  change kh demo 
+//  change kh demo more change
 //    @Bean(name = "transactionManager")
 //    public PlatformTransactionManager transactionManager(EntityManagerFactory entityManagerFactory,
 //                                                         DriverManagerDataSource dataSource) {
