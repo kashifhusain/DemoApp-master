@@ -20,7 +20,7 @@ public class TokenTests {
     private static final String token256 = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3d3cuYWR2YW50YWdlb25saW5lc2hvcHBpbmcuY29tIiwidXNlcklkIjoxMjM0LCJzdWIiOiJsb2dpbk5hbWUiLCJyb2xlIjoiQURNSU4ifQ.Z00EaPxPU0ek6JT6-6B2ypkhIssQa9I-L6-i1IrWQPc";
 
 //    @Autowired
-//    private Environment environment;kh 
+//    private Environment environment;kh 1213
 
     @Test
     public void testBuildToken() throws Exception {
